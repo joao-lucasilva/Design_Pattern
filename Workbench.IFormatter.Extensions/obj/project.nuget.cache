@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YG2wbw8SpjbhaRKPFDMqff9XZi0GYOmCJT+VVHQ8HgFe0rjBsMIvMw87LhnZcSHBjRw3++QF7Naalci2i9iWUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaol\\Downloads\\DesignPatternSamples-main\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
